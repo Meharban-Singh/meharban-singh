@@ -17,13 +17,15 @@ What to see my VSCode setup? Find out more [here](https://gist.github.com/Meharb
 
 ### Some Stats About Me
 <p align="center" >
-<img alt="Meharban's github stats" src="https://github-readme-stats.vercel.app/api?username=Meharban-Singh&show_icons=true&theme=merko"  > </p>
+<img alt="Meharban's github stats" src="https://github-readme-stats.vercel.app/api?username=Meharban-Singh&show_icons=true&theme=merko"  > 
+<img alt="Meharban's languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meharban-Singh&langs_count=10&theme=tokyonight&layout=compact" >
+</p>
 
 ### Contact 
 
 <a href="http://www.meharbansingh.me">Check more about me here 🌟 </a>
 
 <p id="contact-me" align="center">
-<a href="https://www.linkedin.com/in/meharban-singh/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Meharban-Singh" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/i_am_meharban" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@i_am_meharban" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/meharban-singh/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Meharban-Singh" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/i_am_meharban" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="@i_am_meharban" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
