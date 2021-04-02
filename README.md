@@ -1,5 +1,4 @@
 <h1 align="Center">  Hi There, I'm Meharban <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meharban-Singh" alt="meharban-singh" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in the University of Winnipeg 👨‍🎓
 
