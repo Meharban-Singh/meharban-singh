@@ -3,14 +3,14 @@
 I'm a Computer Science Enthusiast  👨‍💻, Currently in my final year in the University of Winnipeg 👨‍🎓
 
 ### Skills
-- 📰: Front-end: HTML, React.js, Handlebars, Pug, CSS, SASS, bulma.css, bootstrap, minimal.css, materialistic.css
-- ⚙️: Back-end: Node.js, PHP, Express.js, GoLang, Django, MySQL, PostgreSQL, MongoDB, Redis, SQLite
-- ☁️: Cloud: Google Cloud Platform, Herokku
-- 🔖: General Purpose: Java, JavaScript, GoLang, Python
-- 🔍: Testing: Jest, Cypress.io, JUnit, Puppeteer
-- 💻: Devops: Git, Docker, Slack, GitHub, BitBucket
-- 🤔: Others: React Native, Discord bots, Automation w/ puppeteer, APIs
-- 🔧: Experimenting now: Electron.js, GoLang, Next.js, Socket.io. Svelte, Meteor.js, AWS, Flutter, Azure
+- 📰: **Front-end**: HTML, React.js, Handlebars, Pug, CSS, SASS, bulma.css, bootstrap, minimal.css, materialistic.css
+- ⚙️: **Back-end**: Node.js, PHP, Express.js, GoLang, Django, MySQL, PostgreSQL, MongoDB, Redis, SQLite
+- ☁️: **Cloud**: Google Cloud Platform, Herokku
+- 🔖: **General Purpose**: Java, JavaScript, GoLang, Python
+- 🔍: **Testing**: Jest, Cypress.io, JUnit, Puppeteer
+- 💻: **Devops**: Git, Docker, Slack, GitHub, BitBucket
+- 🤔: **Others**: React Native, Discord bots, Automation w/ puppeteer, APIs
+- 🔧: **Experimenting now**: Electron.js, GoLang, Next.js, Socket.io. Svelte, Meteor.js, AWS, Flutter, Azure
 - 👐: Have an interesting idea? Need mentorship? [Contact me](#contact-me)
 
 What to see my VSCode setup? Find out more [here](https://gist.github.com/Meharban-Singh/8a9bad782010f87c19ef2cf88e5ade13).
@@ -18,6 +18,8 @@ What to see my VSCode setup? Find out more [here](https://gist.github.com/Meharb
 ### Some Stats About Me
 <p align="center" >
 <img alt="Meharban's github stats" src="https://github-readme-stats.vercel.app/api?username=Meharban-Singh&show_icons=true&theme=merko"  > </p>
+
+### Contact 
 
 <a href="http://www.meharbansingh.me">Check more about me here 🌟 </a>
 
