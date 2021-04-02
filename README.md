@@ -17,7 +17,9 @@ What to see my VSCode setup? Find out more [here](https://gist.github.com/Meharb
 
 ### Some Stats About Me
 <p align="center" >
-<img alt="Meharban's github stats" src="https://github-readme-stats.vercel.app/api?username=Meharban-Singh&show_icons=true&theme=merko"  > 
+<img alt="Meharban's github stats" src="https://github-readme-stats.vercel.app/api?username=Meharban-Singh&show_icons=true&theme=merko"  >
+</p>
+<p align="center">
 <img alt="Meharban's languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meharban-Singh&langs_count=10&theme=tokyonight&layout=compact" >
 </p>
 
