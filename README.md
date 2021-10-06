@@ -22,7 +22,9 @@ What to see my VSCode setup? Find out more [here](https://gist.github.com/Meharb
 <p align="center">
 <img alt="Meharban's languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meharban-Singh&langs_count=10&theme=tokyonight&layout=compact" >
 </p>
-
+<p align="center">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/meharban-singh/meharban-singh/blob/master/devcard.svg" width="400" alt="Meharban Singh's Dev Card"/></a>
+</p>
 ### Contact 
 
 <a href="http://www.meharbansingh.me">Check more about me here 🌟 </a>
